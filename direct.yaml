@@ -4,11 +4,12 @@ payload:
   - DOMAIN-SUFFIX,coros.com
   - DOMAIN-SUFFIX,coros.jp
   - DOMAIN-SUFFIX,gryphline.com
-  - DOMAIN-SUFFIX.mangalib.me
-  - DOMAIN-SUFFIX.lib.social
-  - DOMAIN-SUFFIX.hentailib.me
-  - DOMAIN-SUFFIX.ranobelib.me
-  - DOMAIN-SUFFIX.slashlib.me
-  - DOMAIN-SUFFIX.animelib.me
-  - DOMAIN-SUFFIX.cdnlibs.org
-  - DOMAIN-SUFFIX.imglib.info
+  - DOMAIN-SUFFIX,mangalib.me
+  - DOMAIN-SUFFIX,lib.social
+  - DOMAIN-SUFFIX,hentailib.me
+  - DOMAIN-SUFFIX,ranobelib.me
+  - DOMAIN-SUFFIX,slashlib.me
+  - DOMAIN-SUFFIX,animelib.me
+  - DOMAIN-SUFFIX,cdnlibs.org
+  - DOMAIN-SUFFIX,imglib.info
+  - DOMAIN-SUFFIX,mangalib.org
