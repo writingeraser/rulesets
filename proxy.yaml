@@ -1,7 +1,2 @@
 payload:
-  - '+.nintendo.net'
-  - '+.nintendo.com'
-  - '+.coros.com'
-  - '+.coros.jp'
-  - '+.gryphline.com'
-  - 'gryphline.com'
+#  - DOMAIN-SUFFIX,some.site
