@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,gryphline.com
   - DOMAIN-SUFFIX,mangalib.me
   - DOMAIN-SUFFIX,lib.social
-#  - DOMAIN-SUFFIX,hentailib.me
+# - DOMAIN-SUFFIX,hentailib.me
   - DOMAIN-SUFFIX,ranobelib.me
   - DOMAIN-SUFFIX,slashlib.me
   - DOMAIN-SUFFIX,animelib.me
@@ -15,3 +15,62 @@ payload:
   - DOMAIN-SUFFIX,mangalib.org
   - DOMAIN-SUFFIX,rpharm.ru
   - DOMAIN-SUFFIX,kinopoisk.ru
+  - DOMAIN-SUFFIX,hd.kinopoisk.ru
+  - DOMAIN-SUFFIX,st.kp.yandex.net
+  - DOMAIN-SUFFIX,avatars.mds.yandex.net
+  - DOMAIN-SUFFIX,plus.yandex.ru
+  - DOMAIN-SUFFIX,plus.kinopoisk.ru
+  - DOMAIN-SUFFIX,amediateka.ru
+  - DOMAIN-SUFFIX,ivi.ru
+  - DOMAIN-SUFFIX,okko.tv
+  - DOMAIN-SUFFIX,wink.ru
+  - DOMAIN-SUFFIX,premier.one
+  - DOMAIN-SUFFIX,start.ru
+  - DOMAIN-SUFFIX,more.tv
+  - DOMAIN-SUFFIX,ru
+  - DOMAIN-SUFFIX,su
+  - DOMAIN-SUFFIX,xn--p1ai
+  - DOMAIN-SUFFIX,tatar
+  - DOMAIN-SUFFIX,moscow
+  - DOMAIN-SUFFIX,vk.com
+  - DOMAIN-SUFFIX,vkontakte.ru
+  - DOMAIN-SUFFIX,userapi.com
+  - DOMAIN-SUFFIX,mycdn.me
+  - DOMAIN-SUFFIX,vkuser.net
+  - DOMAIN-SUFFIX,vk-cdn.net
+  - DOMAIN-SUFFIX,vkuservideo.net
+  - DOMAIN-SUFFIX,vk-portal.net
+  - DOMAIN-SUFFIX,yandex.com
+  - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-SUFFIX,yastatic.net
+  - DOMAIN-SUFFIX,yandex.com.tr
+  - DOMAIN-SUFFIX,sberbank.com
+  - DOMAIN-SUFFIX,sber.com
+  - DOMAIN-SUFFIX,sbrf.ru
+  - DOMAIN-SUFFIX,moex.com
+  - DOMAIN-SUFFIX,alfabank.com
+  - DOMAIN-SUFFIX,alfa-bank.com
+  - DOMAIN-SUFFIX,vtb.com
+  - DOMAIN-SUFFIX,vtb24.com
+  - DOMAIN-SUFFIX,gazprombank.tech
+  - DOMAIN-SUFFIX,tochka.com
+  - DOMAIN-SUFFIX,tbank-online.com
+  - DOMAIN-SUFFIX,nspk.ru
+  - DOMAIN-SUFFIX,mironline.ru
+  - DOMAIN-SUFFIX,ozonusercontent.com
+  - DOMAIN-SUFFIX,ozon.com
+  - DOMAIN-SUFFIX,wildberries.com
+  - DOMAIN-SUFFIX,cdek.ru
+  - DOMAIN-SUFFIX,sdek.ru
+  - DOMAIN-SUFFIX,2gis.com
+  - DOMAIN-SUFFIX,2gis.io
+  - DOMAIN-SUFFIX,gis.io
+  - DOMAIN-SUFFIX,aeroflot.com
+  - DOMAIN-SUFFIX,pobeda.aero
+  - DOMAIN-SUFFIX,habr.com
+  - DOMAIN-SUFFIX,rt.com
+  - DOMAIN-SUFFIX,4pda.to
+  - DOMAIN-SUFFIX,ren.tv
+  - DOMAIN-SUFFIX,vitrina.tv
+  - DOMAIN-SUFFIX,vmeste-rf.tv
+  - DOMAIN-SUFFIX,proxy.mtrxvpn.com
