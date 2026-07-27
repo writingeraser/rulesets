@@ -74,3 +74,4 @@ payload:
   - DOMAIN-SUFFIX,vitrina.tv
   - DOMAIN-SUFFIX,vmeste-rf.tv
   - DOMAIN-SUFFIX,proxy.mtrxvpn.com
+  - PROCESS-NAME,FACEIT.exe
