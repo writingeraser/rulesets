@@ -13,6 +13,7 @@ payload:
   - DOMAIN,geller-pa.googleapis.com
   - DOMAIN,social-pa.googleapis.com
   - DOMAIN,people-pa.googleapis.com
+  - DOMAIN-SUFFIX,googleapis.com
   
   # Статика, картинки и зависимости Google (нужны для корректной загрузки чата)
   - DOMAIN-SUFFIX,googleusercontent.com
