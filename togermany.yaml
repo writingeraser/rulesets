@@ -1,2 +1,23 @@
 payload:
-  - DOMAIN,gemini.google.com
+  # Основные веб-интерфейсы
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,aistudio.google.com
+  
+  # API endpoints и фоновые сервисы Gemini / Google AI
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,alkalifeed-pa.clients6.google.com
+  - DOMAIN,alkali-sandbox-pa.clients6.google.com
+  - DOMAIN,proactivebackend-pa.googleapis.com
+  - DOMAIN,geller-pa.googleapis.com
+  - DOMAIN,social-pa.googleapis.com
+  - DOMAIN,people-pa.googleapis.com
+  
+  # Статика, картинки и зависимости Google (нужны для корректной загрузки чата)
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,gstatic.com
+  
+  # Ключевые слова, чтобы поймать любые новые поддомены, которые Google может добавить
+  - DOMAIN-KEYWORD,gemini
+  - DOMAIN-KEYWORD,bard
