@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,fortnite.com
+  - DOMAIN-SUFFIX,eac-cdn.com
+  - DOMAIN-SUFFIX,easyanticheat.net
+  - PROCESS-NAME,FortniteClient-Win64-Shipping.exe
+  - PROCESS-NAME,FortniteLauncher.exe
+  - PROCESS-NAME,EpicGamesLauncher.exe
+  - PROCESS-NAME,EpicWebHelper.exe
+  - PROCESS-NAME,EasyAntiCheat_EOS.exe
+  - PROCESS-NAME,EasyAntiCheat.exe
