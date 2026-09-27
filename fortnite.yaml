@@ -9,3 +9,4 @@ payload:
   - PROCESS-NAME,EpicWebHelper.exe
   - PROCESS-NAME,EasyAntiCheat_EOS.exe
   - PROCESS-NAME,EasyAntiCheat.exe
+  - PROCESS-NAME,FortniteClient-Win64-Shipping_EAC_EOS.exe
