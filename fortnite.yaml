@@ -1,12 +1,21 @@
 payload:
+  # Домены
   - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,fortnite.com
   - DOMAIN-SUFFIX,eac-cdn.com
   - DOMAIN-SUFFIX,easyanticheat.net
+  - DOMAIN-SUFFIX,unrealengine.com
+
+  # Процессы Fortnite & Epic Games
   - PROCESS-NAME,FortniteClient-Win64-Shipping.exe
   - PROCESS-NAME,FortniteLauncher.exe
+  - PROCESS-NAME,FortniteBootstrapper.exe
+  - PROCESS-NAME,FortniteClient-Win64-Shipping_EAC_EOS.exe
   - PROCESS-NAME,EpicGamesLauncher.exe
   - PROCESS-NAME,EpicWebHelper.exe
+  - PROCESS-NAME,EpicOnlineServicesUserHelper.exe
+  - PROCESS-NAME,EOSOverlayRenderer-Win64-Shipping.exe
   - PROCESS-NAME,EasyAntiCheat_EOS.exe
   - PROCESS-NAME,EasyAntiCheat.exe
-  - PROCESS-NAME,FortniteClient-Win64-Shipping_EAC_EOS.exe
+  - PROCESS-NAME,CrashReportClient.exe
