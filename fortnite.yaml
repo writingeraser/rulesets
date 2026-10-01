@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,eac-cdn.com
   - DOMAIN-SUFFIX,easyanticheat.net
   - DOMAIN-SUFFIX,unrealengine.com
+  - DOMAIN-SUFFIX,epicgamescdn.com
 
   # Процессы Fortnite & Epic Games
   - PROCESS-NAME,FortniteClient-Win64-Shipping.exe
