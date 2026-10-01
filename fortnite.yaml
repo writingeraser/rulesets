@@ -8,6 +8,11 @@ payload:
   - DOMAIN-SUFFIX,unrealengine.com
   - DOMAIN-SUFFIX,epicgamescdn.com
 
+  #Medzhik
+  - GEOSITE,epicgames
+  #Айпи, наверное помогут я хз
+  - IP-CIDR,104.18.124.108/32
+
   # Процессы Fortnite & Epic Games
   - PROCESS-NAME,FortniteClient-Win64-Shipping.exe
   - PROCESS-NAME,FortniteLauncher.exe
