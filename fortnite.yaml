@@ -18,12 +18,24 @@ payload:
   - IP-ASN,14618
   - IP-ASN,13335
 
-  # --- Динамические порты матчей Fortnite ---
+  # --- Специфичные порты Fortnite & Nintendo ---
+  - DST-PORT,1935
+  - DST-PORT,3074
+  - DST-PORT,3478-3480
   - DST-PORT,5000-5500
+  - DST-PORT,5060
+  - DST-PORT,5062
+  - DST-PORT,5222
+  - DST-PORT,6250
+  - DST-PORT,6667
   - DST-PORT,7000-8000
   - DST-PORT,9000-9100
+  - DST-PORT,12400
   - DST-PORT,15000-15100
   - DST-PORT,22000-22500
+  - DST-PORT,28910
+  - DST-PORT,29900-29901
+  - DST-PORT,29920
 
   # --- Процессы (для ПК) ---
   - PROCESS-NAME,FortniteClient-Win64-Shipping.exe
