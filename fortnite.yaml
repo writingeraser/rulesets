@@ -1,5 +1,5 @@
 payload:
-  # Домены
+  # --- Домены ---
   - DOMAIN-SUFFIX,epicgames.com
   - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,fortnite.com
@@ -7,13 +7,25 @@ payload:
   - DOMAIN-SUFFIX,easyanticheat.net
   - DOMAIN-SUFFIX,unrealengine.com
   - DOMAIN-SUFFIX,epicgamescdn.com
+  - DOMAIN-SUFFIX,vivox.com
+  - DOMAIN-SUFFIX,ol.epicgames.com
 
-  #Medzhik
+  # --- Geosite ---
   - GEOSITE,epicgames
-  #Айпи, наверное помогут я хз
-  - IP-CIDR,104.18.124.108/32
 
-  # Процессы Fortnite & Epic Games
+  # --- Автономные системы Amazon AWS / Cloudflare ---
+  - IP-ASN,16509
+  - IP-ASN,14618
+  - IP-ASN,13335
+
+  # --- Динамические порты матчей Fortnite ---
+  - DST-PORT,5000-5500
+  - DST-PORT,7000-8000
+  - DST-PORT,9000-9100
+  - DST-PORT,15000-15100
+  - DST-PORT,22000-22500
+
+  # --- Процессы (для ПК) ---
   - PROCESS-NAME,FortniteClient-Win64-Shipping.exe
   - PROCESS-NAME,FortniteLauncher.exe
   - PROCESS-NAME,FortniteBootstrapper.exe
