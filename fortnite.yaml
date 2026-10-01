@@ -10,15 +10,7 @@ payload:
   - DOMAIN-SUFFIX,vivox.com
   - DOMAIN-SUFFIX,ol.epicgames.com
 
-  # --- Geosite ---
-  - GEOSITE,epicgames
-
-  # --- Автономные системы Amazon AWS / Cloudflare ---
-  - IP-ASN,16509
-  - IP-ASN,14618
-  - IP-ASN,13335
-
-  # --- Специфичные порты Fortnite & Nintendo ---
+  # --- Порты (покрывают 15069, 22222, 9069 со скриншота) ---
   - DST-PORT,1935
   - DST-PORT,3074
   - DST-PORT,3478-3480
