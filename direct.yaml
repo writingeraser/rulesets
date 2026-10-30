@@ -75,3 +75,14 @@ payload:
   - DOMAIN-SUFFIX,vmeste-rf.tv
   - DOMAIN-SUFFIX,proxy.mtrxvpn.com
   - PROCESS-NAME,FACEIT.exe
+  - DOMAIN-SUFFIX,express
+  - DOMAIN-SUFFIX,express.ms
+  - DOMAIN-SUFFIX,xcts.ru
+  - DOMAIN,xlnk.ms
+  - DOMAIN,effectssdk.ai
+  - DOMAIN-SUFFIX,rpharm.ru
+  - IP-CIDR,178.154.224.0/20
+  - IP-CIDR,51.250.0.0/16
+  - IP-CIDR,158.160.0.0/16
+  - IP-CIDR,213.180.193.0/24
+  - IP-CIDR,195.210.20.0/23
