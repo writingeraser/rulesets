@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,rpharm.ru
+  - DOMAIN-SUFFIX,rpharm
  # - DOMAIN-SUFFIX,coros.com
  # - DOMAIN-SUFFIX,coros.jp
   - DOMAIN-SUFFIX,gryphline.com
